@@ -16,6 +16,6 @@ footer { margin-top: 100px; }
 table, td, th { vertical-align: middle; border: none; }
 th { border-bottom: 6px solid green; }
 td { padding: 8px; }
-h1 {color: pink}
+h1 {color: blue}
 .my_bold {font-weight:bold;}
 .my_red {color: red}
